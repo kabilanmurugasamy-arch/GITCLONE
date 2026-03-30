@@ -1,2 +1,6 @@
 have created text file
 git clone
+git add
+git commit
+git push 
+git add
