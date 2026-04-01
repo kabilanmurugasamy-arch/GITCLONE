@@ -4,3 +4,4 @@ git add
 git commit
 git push 
 git add
+git branch -a
